@@ -9,7 +9,7 @@ function App()
   return (
     <div className="HelloWorld">
       <h1>
-        {/* <Search/> */}
+        <Search/>
         {/* <Favorites /> */}
         <Meals/>
         {/* <Modal/> */}
